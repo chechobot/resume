@@ -1,0 +1,348 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Sergio Andrés Ruiz Paillalef",
+    "label": "Sistemas de Información Geográfica\nRecursos Naturales Renovables\nRegión Metropolitana",
+    "image": "",
+    "email": "sergio.ruiz.paillalef@gmail.com",
+    "phone": "+56975232380",
+    "url": "",
+    "summary": "Profesional comprometido y perseverante con amplia experiencia en Sistemas de Información Geográfica (SIG) y herramientas de representación espacial. Con un sólido conocimiento en la administración de bases de datos geográficas, me dedico a potenciar el desarrollo sustentable mediante el uso eficiente y responsable de los recursos naturales, en línea con la misión del SAG de proteger y mejorar la condición fito y zoosanitaria, y conservar los recursos naturales renovables.\n\nEn mi rol dentro del SAG, contribuyo a la protección del patrimonio silvoagropecuario del país a través de diversas funciones, incluyendo:\n\n*   Capacitación a funcionarios en el uso de SIG, fomentando la adopción de nuevas tecnologías y mejores prácticas.\n*   Creación de material cartográfico para el análisis del territorio, utilizando herramientas como QGIS, ArcMap Pro y AutoCAD, proporcionando información crucial para la toma de decisiones.\n*   Generación de ortofotos y análisis de imágenes satelitales utilizando drones (con planificación de vuelo y catastro mediante fotografía aérea), Google Earth Engine, Agisoft y OpenDroneMap, permitiendo el reconocimiento y monitoreo de fenómenos con alta precisión.\n\nMi pasión por las nuevas tecnologías me impulsa a buscar constantemente herramientas innovadoras que mejoren la precisión y el diseño de la cartografía, contribuyendo a la visión del SAG de ser reconocido por su significativa contribución al desarrollo del país. Busco oportunidades para aplicar mis habilidades en la gestión de bases de datos geográficas vinculadas a los recursos naturales, impulsando un crecimiento económico basado en la sostenibilidad.",
+    "location": {
+      "countryCode": "ES",
+      "address": "Nonato Coo 3304"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "chechoruiz2018",
+        "url": "https://www.linkedin.com/in/chechoruiz2018/"
+      },
+      {
+        "network": "Github",
+        "username": "chechobot",
+        "url": "https://github.com/chechobot/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Servicio Agrícola y Ganadero",
+      "position": "Cartógrafo",
+      "startDate": "2020-03-31",
+      "endDate": "",
+      "highlights": [
+        "Cartógrafo, Encargado Regional de Sistemas de Información Geográfica, Operador de RPAS con licencia de DGAC"
+}],
+      "url": "https://www.linkedin.com/company/servicio-agricola-y-ganadero-sag_2/",
+      "location": "Santiago, Región Metropolitana de Santiago, Chile"
+    },
+    {
+      "name": "NuevaUnión",
+      "position": "Analista de SIG",
+      "startDate": "2019-03-31",
+      "endDate": "2019-10-31",
+      "highlights": [],
+      "summary": "Mantenimiento y gestión de SIG en NuevaUnión, Composición de cartografía temática para EIA. Análisis Espacial.",
+      "url": "https://www.linkedin.com/company/nuevauni%C3%B3n/",
+      "location": "Provincia de Santiago, Chile"
+    },
+    {
+      "name": "Andalué Ambiental S.A.",
+      "position": "Cartógrafo",
+      "startDate": "2016-06-30",
+      "endDate": "2019-03-31",
+      "highlights": [],
+      "summary": "Confección de cartografía temática para Declaración de Impacto Ambiental.",
+      "url": "https://www.linkedin.com/company/andalue-ambiental-sociedad-anonima/",
+      "location": "Santiago, chile"
+    },
+    {
+      "name": "Mining Solutions Ltda",
+      "position": "Cartógrafo",
+      "startDate": "2013-12-31",
+      "endDate": "2015-12-31",
+      "highlights": [],
+      "summary": "Encargado de la confección de productos cartográficos destinados a la Exploración Minera.\nMantenimiento y actualización del Sistema de información geográfica.\nAsistencia a supervisor de bases de datos en la confección y actualización de carpetas de sondajes físicas.",
+      "url": "",
+      "location": "Muestrera Geológica Exploraciones Mineras S.A. Calle Larga"
+    },
+    {
+      "name": "GEOINFO",
+      "position": "Cartógrafo",
+      "startDate": "2012-04-30",
+      "endDate": "2013-12-31",
+      "highlights": [],
+      "summary": "Encargado de la confección de productos cartográficos destinados a la Exploración Minera.",
+      "url": "",
+      "location": "San Pío X 2433 - Providencia"
+    },
+    {
+      "name": "TOTAI TRANSURBE",
+      "position": "Administrador de Sistema",
+      "startDate": "2010-07-31",
+      "endDate": "2011-08-31",
+      "highlights": [],
+      "summary": "Encargado de la actualización constante de señales de tránsito georreferenciadas en la comuna de Vitacura.\nDespacho de ordenes de trabajo.\nCoordinador de faenas diarias para la Municipalidad de Vitacura (reposición y/o reparación de señales de tránsito)",
+      "url": ""
+    },
+    {
+      "name": "Gobierno Regional de Santiago",
+      "position": "Alumno Practicante",
+      "startDate": "2009-05-31",
+      "endDate": "2009-12-31",
+      "highlights": [],
+      "summary": "Realice la práctica profesional en el Gobierno Regional Metropolitano de Santiago (GORE), División de Planificación y Desarrollo. Participando en la Georreferenciación de los Anteproyectos Regionales de Inversión (ARI) y Fondo Nacional de Desarrollo Regional (FNDR).",
+      "url": "https://www.linkedin.com/company/gobiernodesantiago/"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Universidad Tecnológica Metropolitana del Estado de Chile",
+      "area": "Cartografía, Teledetección, Geomesura, Fotogrametría, Percepción Remota, Geografía Humana y Física.",
+      "studyType": "Licenciado en Ciencias Cartográficas",
+      "startDate": "2002-12-31",
+      "endDate": "2009-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Análisis de Datos Geoespaciales",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Gestión de Proyectos SIG",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Desarrollo sostenible",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "QGIS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "NuevaUnión",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "ArcView",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Sistema de información geográfica",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Geoprocesamiento",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "ArcGIS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Office",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "GIS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Capacidad de análisis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Intelligence Analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "AutoCAD",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Creativo",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "OpenDroneMap",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "ArcInfo",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Geología",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Google Earth",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "GPS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Gemcom",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Geomática",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "GIS Specialist",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Bases de datos",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "ESRI",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Sistemas de posicionamiento global",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Agisoft PhotoScan",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Vulcan",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Esri",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Interdisciplinary Teaching",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Teledetección",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Perseverant",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cartografía",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Trabajo en equipo",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Interdisciplinary Collaboration",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Open Drone Map",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Creative Solutions",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "ERDAS Imagine",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Análisis espacial",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "WebODM",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "es",
+      "fluency": "Native Speaker"
+    },
+    {
+      "fluency": "Limited Working",
+      "language": "English"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [
+    {
+      "name": "METALOTECTO DISTRITAL ANDINA LITOLOGIA",
+      "startDate": "2014-12-31",
+      "summary": "Recopilación geológica de proyectos realizados en el DISTRITO ANDINA. Detalle de cartografía escala 1:5.000.",
+      "url": null,
+      "endDate": "2014-12-31"
+    },
+    {
+      "name": "Integración de geologías 250k SERNAGEOMIN. Geología 1:10.000 EMSA para Distrito Andina CODELCO",
+      "startDate": "2013-04-30",
+      "summary": "Proyecto recopilatorio de antiguas geologías realizadas para EMSA del Distrito Andina",
+      "url": null,
+      "endDate": "2013-10-31"
+    }
+  ],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
